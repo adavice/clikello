@@ -172,6 +172,25 @@ h4,
   z-index: 1;
 }
 
+.trigger1,.trigger2 {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 0;
+  border: 1px solid var(--primary);}
+
+  .trigger1:hover,.trigger2:hover {
+    background: var(--main);
+    color: var(--primary);
+  }
+
+.dropdown1 a,.dropdown2 a {
+  background: var(--primary);
+  color: var(--main);
+}
+
 .hero-orb { display: none; }
 .hero-orb-OLD {
   position: absolute;

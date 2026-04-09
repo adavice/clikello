@@ -145,7 +145,7 @@
                 </svg>
               </a>
               <div
-                class="dropdown1 absolute right-0 mt-2 w-32 bg-white border border-gray-200 rounded shadow-lg opacity-0 group-hover:opacity-100 invisible group-hover:visible transition-opacity duration-150 z-10 bg-white"
+                class="dropdown1 absolute right-0 mt-2 w-32 bg-white border border-gray-200 rounded shadow-lg opacity-0 invisible transition-opacity duration-150 z-10 bg-white"
               >
                 <a
                   href="/?delcookie=1"
