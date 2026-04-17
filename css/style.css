@@ -2718,3 +2718,10 @@ main .text-gray-900 {
   background: rgba(193, 253, 5, 0.35);
   z-index: -1;
 }
+
+.footer-copyright {
+  color: #b0b0b0;
+  font-size: 0.875rem;
+  text-align: center;
+  padding: 1rem 0;
+}
